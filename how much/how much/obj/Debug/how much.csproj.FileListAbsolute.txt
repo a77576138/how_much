@@ -1,0 +1,16 @@
+C:\Users\ABC\Desktop\how much\how much\how much\bin\Debug\how much.exe.config
+C:\Users\ABC\Desktop\how much\how much\how much\obj\Debug\how much.csprojResolveAssemblyReference.cache
+C:\Users\ABC\Desktop\how much\how much\how much\obj\Debug\MainWindow.g.cs
+C:\Users\ABC\Desktop\how much\how much\how much\obj\Debug\no2.g.cs
+C:\Users\ABC\Desktop\how much\how much\how much\obj\Debug\App.g.cs
+C:\Users\ABC\Desktop\how much\how much\how much\obj\Debug\how much_MarkupCompile.cache
+C:\Users\ABC\Desktop\how much\how much\how much\obj\Debug\how much_MarkupCompile.lref
+C:\Users\ABC\Desktop\how much\how much\how much\bin\Debug\how much.exe
+C:\Users\ABC\Desktop\how much\how much\how much\bin\Debug\how much.pdb
+C:\Users\ABC\Desktop\how much\how much\how much\obj\Debug\MainWindow.baml
+C:\Users\ABC\Desktop\how much\how much\how much\obj\Debug\no2.baml
+C:\Users\ABC\Desktop\how much\how much\how much\obj\Debug\how much.g.resources
+C:\Users\ABC\Desktop\how much\how much\how much\obj\Debug\how_much.Properties.Resources.resources
+C:\Users\ABC\Desktop\how much\how much\how much\obj\Debug\how much.csproj.GenerateResource.Cache
+C:\Users\ABC\Desktop\how much\how much\how much\obj\Debug\how much.exe
+C:\Users\ABC\Desktop\how much\how much\how much\obj\Debug\how much.pdb
